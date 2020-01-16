@@ -1,7 +1,7 @@
 /*
-    Copyright (C) 2018 Fernando Porrino Serrano.
-    This software it's under the terms of the GNU Affero General Public License version 3.
-    Please, refer to (https://github.com/FherStk/DocumentPlagiarismChecker/blob/master/LICENSE) for further licensing details.
+    Copyright (C) 2018 Albert Vera Duran.
+    Esta cosa es un codigo que lee la máquina .
+   Por favor, refer to (https://github.com/FherStk/DocumentPlagiarismChecker/blob/master/LICENSE) for further licensing details.
  */
  
 using System;
